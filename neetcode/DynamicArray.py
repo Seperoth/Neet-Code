@@ -13,3 +13,5 @@ print("Capacity: ", arr.capacity)
 print("Size: ", arr.size)
 
 print("Internal Array: ", arr.array)
+
+print("Adding elements to the dynamic array...")
